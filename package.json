@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ellipsis-labs/phoenix-sdk": "^2.0.2",
+    "bs58": "^5.0.0"
+  }
+}
