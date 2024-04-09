@@ -4,7 +4,7 @@ Uses all of your USDC to swap to SOL and backwards on Phoenix, farming trade vol
 <h2>Installation</h2>
 
 Run in console:
-`git clone https://github.com/Resseyn/phoenix-farmer`
+`git clone https://github.com/Resseyn/phoenix-farmer.git`
 All of dependencies are pre-installed.
 
 <h2>Start</h2>
